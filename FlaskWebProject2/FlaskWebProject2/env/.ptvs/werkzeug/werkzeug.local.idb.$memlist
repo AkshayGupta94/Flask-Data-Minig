@@ -1,0 +1,10 @@
+PY2
+implements_bool
+update_wrapper
+LocalProxy
+LocalStack
+ClosingIterator
+get_ident
+Local
+LocalManager
+release_local

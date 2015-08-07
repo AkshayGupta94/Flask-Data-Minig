@@ -1,0 +1,9 @@
+C:\Users\aksha\Source\Repos\NewRep3\FlaskWebProject2\FlaskWebProject2\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\aksha\Source\Repos\NewRep3\FlaskWebProject2\FlaskWebProject2\bin\AzureSetup.cfg
+C:\Users\aksha\Source\Repos\NewRep3\FlaskWebProject2\FlaskWebProject2\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\aksha\Source\Repos\NewRep3\FlaskWebProject2\FlaskWebProject2\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\aksha\Source\Repos\NewRep3\FlaskWebProject2\FlaskWebProject2\bin\wfastcgi.py
+C:\Users\aksha\Source\Repos\NewRep3\FlaskWebProject2\FlaskWebProject2\obj\Release\deployment-updated-pyvenv.cfg
+C:\Users\aksha\Source\Repos\NewRep3\FlaskWebProject2\FlaskWebProject2\ptvs_virtualenv_proxy.py
+C:\Users\aksha\Source\Repos\NewRep3\FlaskWebProject2\FlaskWebProject2\obj\Release\web.config
+C:\Users\aksha\Source\Repos\NewRep3\FlaskWebProject2\FlaskWebProject2\obj\Release\web.debug.config
